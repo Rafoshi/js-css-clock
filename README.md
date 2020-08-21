@@ -1,3 +1,3 @@
-###A Clock functional
+##A Clock functional
 
-##Using Js css and html
+#Using Js css and html
